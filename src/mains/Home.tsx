@@ -2,7 +2,7 @@ export default function Home() {
     return (
         <main>
             <h2>Home</h2>
-            <img src="../../azizresume.jpeg" alt="Aziz Rebai" />
+            <img src="../../public/azizresume.jpeg" alt="Aziz Rebai" />
             <p>My name is Aziz Rebai, and I am a full time Computer Science student at BU.
                 I would like to further my academic carreer in the future by possibly pursuing
                 a Master's degree in Cybersecurity.</p>

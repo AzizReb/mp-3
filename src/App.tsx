@@ -13,7 +13,7 @@ function Root() {
     return (
         <>
             <Header />
-            <div>
+            <div className="page-body">
                 <Nav />
                 <Outlet />
             </div>

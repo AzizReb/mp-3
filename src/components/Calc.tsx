@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import useCalculator from '../hooks/useCalculator';
+import useCalculator from '../Calculator';
 
 export default function Calc() {
     const [first, setFirst] = useState('');

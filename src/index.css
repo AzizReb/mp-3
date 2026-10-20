@@ -13,7 +13,7 @@ footer{
     font-size: calc(2px + 2vw);
     text-align: center;
 }
-div{
+.page-body {
     display: flex;
     flex-direction: row;
     width: 100%;
@@ -57,7 +57,7 @@ nav a {
     text-decoration: none;
 }
 @media screen and (max-width: 900px) {
-    div{
+    .page-body {
         flex-direction: column;
     }
     nav {
